@@ -107,7 +107,7 @@ VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_Linkl
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'api.shareus.io')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'https://short2url.in/api?api=f645a640b0c8cb9db5c626520507ecf2253287cb&url=yourdestinationlink.com&alias=CustomAlias')
 SHORTLINK_API = environ.get('SHORTLINK_API', 'f645a640b0c8cb9db5c626520507ecf2253287cb')
 
 # Others
